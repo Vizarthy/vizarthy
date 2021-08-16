@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vizarthy and i wanna be a great programmer.
+### Hi there 👋, my name is Vizarthy and i wanna become a great programmer.
 
 - 🔭 I’m currently working on bots for ***Discord***.
 - 🌱 I’m currently learning ***JavaScript***, ***TypeScript***, ***React***, ***NodeJS*** and ***NextJS***.

@@ -1,5 +1,5 @@
 <div>
-  <img  src="https://cdn.discordapp.com/attachments/912335993149993071/943023312055963678/1e684d15ad21997f1a92adfae922cfe5.gif">
+  <img  src="https://lh3.googleusercontent.com/QUhTQEr6Yi9L7q2khH5HgMq22Kj1h3FuCt1ElEKaAU6s6CkRt39pKbIDuVBUC8_ksw-r8CT2oEKfnnqgog_oW8v7732cwWK2jUT23dE=w1080">
 </div>
 
 <div align="center">
@@ -16,8 +16,8 @@
 
 <div align="center", style="display: inline_block">
   <a href="https://github.com/Vizarthy">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Vizarthy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vizarthy&layout=compact&theme=midnight-purple" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Vizarthy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vizarthy&layout=compact&theme=midnight-purple" />
 </div>
   
  <div align="center">
